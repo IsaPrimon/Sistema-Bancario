@@ -53,7 +53,7 @@ def main():
     numero_saques = 0
     qtde_transacoes = 0
     LIMITE_SAQUES = 3   
-    LIMITE_TRANSACOES = 5
+    LIMITE_TRANSACOES = 10
 
     while True:
         os.system('clear')
