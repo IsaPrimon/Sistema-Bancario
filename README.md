@@ -1,6 +1,6 @@
 # Sistema Bancário
 
-Desafio proposto pelo Bootcamp da NTT DATA - Engenharia de Dados com Python, na qual são feitas as operações de Saque, Depósito e Extrato, utilizando funções. Também são mostradas a data e hora de cada operação.
+Desafio de criação de um Sistema Bancário, proposto pelo Bootcamp da NTT DATA - Engenharia de Dados com Python, na qual são feitas as operações de Saque, Depósito e Extrato, bem como a criação de usuários e contas correntes, utilizando funções. Também são mostradas a data e hora de cada operação bancária.
 
 ### 📚 Bibliotecas utilizadas
 
